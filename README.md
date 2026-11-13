@@ -65,6 +65,18 @@ I repeated the 1-in-100 estimate with different random seeds to see how much it 
 
 With 1,000 years the answer is unreliable. At 100,000 it stays within about 5%, which is why I use that size.
 
+## Dashboard
+
+`app.py` is a small Streamlit dashboard on the same model. The sidebar has two sliders that scale the number of storm days and the damage per storm day against the history, and a switch between the lognormal curve and real storm days. The average year, the 1-in-100 year and the loss curve update when I move them. The history table at the bottom shows storm days and damage per year.
+
+```
+streamlit run app.py
+```
+
+![Dashboard](results/dashboard.png)
+
+The dashboard runs fewer simulated years than the scripts so it responds quickly, so its numbers differ slightly from the table above ($44.9M and $360M against $45.2M and $374M).
+
 ## Run it
 
 Step 3 needs a local PostgreSQL server. Host, port and user are set in `config.py`. If the server asks for a password, set it in the environment variable `PGPASSWORD`. The script creates the database `storm_loss` itself.
@@ -98,7 +110,7 @@ The peril, state and years are set in `config.py`.
 | `05_simulate_and_curve.py` | Simulates years with two model versions, draws the loss curve |
 | `06_sensitivity.py` | Changes assumptions one at a time, checks the simulation size |
 | `app.py` | Streamlit dashboard with sliders |
-| `results/` | Output tables and the two charts shown above |
+| `results/` | Output tables and the charts and dashboard screenshot shown above |
 
 ## Limits
 
