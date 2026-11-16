@@ -1,0 +1,4 @@
+question,reports,agreement_pct,noaa_yes,model_yes,both_yes,recall_pct,precision_pct
+injured,500,87.2,190,130,128,67.4,98.5
+killed,500,98.0,29,25,22,75.9,88.0
+rating (where both give one),222,86.9,,,,,

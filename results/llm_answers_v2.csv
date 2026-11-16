@@ -1,0 +1,2420 @@
+event_id,llm_injured,llm_killed,llm_rating,raw_reply
+5129550,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5136863,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5136671,no,no,3,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+5136675,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5136518,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5137673,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5137674,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5139186,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5137884,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5140050,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5140353,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5142429,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5147248,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+5142113,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5140381,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5146097,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5150045,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5157737,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5160527,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5161178,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5160309,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5165095,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+5237853,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5234912,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5244340,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5237569,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5245888,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5245784,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5245783,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5247884,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+5244239,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5242767,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+5243282,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5254679,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5249121,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5249119,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5249032,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5256126,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5268128,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5268383,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5269721,yes,no,2,"{
+
+   ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2"" }"
+5263479,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5271171,yes,no,0,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+5271709,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5270803,yes,no,none,"{
+   ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5271610,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5270804,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+5271330,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5273072,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+5273185,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+5270437,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5269590,yes,no,3,"{
+   ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+5271170,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+5273156,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+5274997,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5275865,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+5275866,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+5275867,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+5326717,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5326145,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+5326954,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5326713,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5281117,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5285904,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5285803,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5285553,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+5284695,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5284790,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5288417,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5284694,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5285338,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5285294,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5284795,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5285395,no,yes,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""yes"",
+  ""rating"": ""2""
+}"
+5290829,no,no,3,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+5296812,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5296791,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5296664,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+5294587,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5296441,yes,yes,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""none""
+}"
+5299825,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5312696,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5315132,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5315363,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5315369,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5319644,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5319688,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+5319564,yes,yes,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""none""
+}"
+5319565,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5331340,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5331469,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5331347,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5331892,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5331468,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5331992,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5331896,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5331894,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+5335577,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5335580,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5335576,yes,no,0,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+5348513,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5353064,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+5354517,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5353093,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5353094,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5348727,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5348758,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5348723,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5356903,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5359384,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5360951,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5360949,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5355637,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+5356654,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5355117,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5355125,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+5366150,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5372087,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5369913,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5372097,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5372091,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5388755,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+5389079,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5394277,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5394346,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5392107,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5396901,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5392870,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5392867,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+5388502,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5387858,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5388506,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5404777,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+5403566,yes,no,none,"{
+
+   ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5407266,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5411742,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5406728,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5428886,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+5428828,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+5425394,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5428958,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+5425387,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5441663,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+5448865,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5448022,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5452612,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+5459806,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5452123,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+5451177,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5460873,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5465835,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+5465832,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+5465834,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+5456691,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+5474109,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+5492142,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5498065,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+5496757,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5502176,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+5504880,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5511066,yes,yes,3,"{
+   ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""3""
+}"
+5511067,yes,yes,3,"{
+  ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""3""
+}"
+5506183,yes,no,2,"{ ""injured"": ""yes"", ""killed"": ""no"", ""rating"": ""2"" }"
+5502233,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5502097,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+5502231,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5523459,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5525225,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+5528248,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+8092,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+2392,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+3105,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+831,yes,no,0,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+7136,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+7011,yes,yes,none,"{
+   ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""none""
+}"
+7015,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+29738,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+30837,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+22537,yes,no,2,"{ ""injured"": ""yes"", ""killed"": ""no"", ""rating"": ""2"" }"
+18556,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+20025,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+14391,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+22255,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+33390,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+33378,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+32640,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+33502,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+35010,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+29939,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+29941,yes,no,2,"{
+ ""injured"": ""yes"",
+ ""killed"": ""no"",
+ ""rating"": ""2""
+}"
+29947,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+21948,yes,no,none,"{ ""injured"": ""yes"", ""killed"": ""no"", ""rating"": ""none"" }"
+29936,yes,yes,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""2""
+}"
+29728,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+35091,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+21760,yes,yes,none,"{
+
+   ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""none""
+}"
+43703,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+38671,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+38859,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+29726,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+29717,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+15726,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+24574,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+36970,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+21954,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+96248,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+93994,yes,no,2,"{
+   ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+110077,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+141726,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+141727,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+91976,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+90082,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+98631,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+97547,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+91929,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+86414,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+104937,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+105616,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+92399,no,no,4,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+118240,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+138224,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+88425,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+176627,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+203000,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+186401,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+203002,no,no,3,"{
+
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+157242,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+154942,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+155280,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+164991,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+166519,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+165563,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+171708,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+171705,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+177556,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+185485,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+180691,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+194711,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+185962,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+161130,no,no,none,"{
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+162972,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+228019,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+227971,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+219773,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+219769,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+219777,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+225315,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+225573,no,no,3,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+232092,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+260546,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+260342,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+261942,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+288884,no,no,none,"{
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+301122,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+302205,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+307559,yes,no,none,"{
+
+   ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+279336,no,no,none,"{
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+312008,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+306432,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+291100,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+293862,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+347199,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+352803,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+355113,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+355037,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+368667,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+368118,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+385726,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+364618,yes,no,2,"{
+
+   ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2"" }"
+378641,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+386041,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+385990,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+379277,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+426570,no,no,3,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+423360,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+368122,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+367954,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+408826,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+377596,yes,no,4,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+377444,yes,no,0,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+377573,yes,no,3,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+378595,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+377580,yes,no,3,"{
+   ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+377469,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+375515,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+440393,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+440394,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+427861,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+428119,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+428124,no,yes,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""yes"",
+  ""rating"": ""1""
+}"
+437484,yes,no,4,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+443446,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+443090,no,yes,4,"{
+  ""injured"": ""no"",
+  ""killed"": ""yes"",
+  ""rating"": ""4""
+}"
+443200,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+443349,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+443351,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+443358,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+443434,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+480241,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+465663,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+443356,no,no,3,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+475305,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+443360,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+516967,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+500766,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+521862,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+509155,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+509156,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+509157,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+527701,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+528936,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+606455,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+570339,no,yes,3,"{
+  ""injured"": ""no"",
+  ""killed"": ""yes"",
+  ""rating"": ""3""
+}"
+575796,no,no,3,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+579261,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+575861,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+576074,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+606463,no,no,3,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+606461,no,no,3,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+591688,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+575914,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+570051,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+576042,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+581301,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+575884,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+606471,yes,yes,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""none""
+}"
+602176,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+608869,no,no,0,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""0"" }"
+560771,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+605631,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+575847,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+606458,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+606480,no,yes,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""yes"",
+  ""rating"": ""2""
+}"
+606484,no,yes,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""yes"",
+  ""rating"": ""1""
+}"
+606370,yes,no,2,"{
+   ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+571393,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+581926,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+584380,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+577987,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+582220,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+580835,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+581094,yes,no,0,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+602182,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+602183,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+604941,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+624721,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+624720,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+631395,no,no,4,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+631038,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+631040,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+631396,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+623764,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+637277,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+637282,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+637325,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+666465,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+668882,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+668883,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+685446,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+686886,no,no,1,"{
+
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+688060,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+681972,no,no,1,"{
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+702512,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+702505,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+681492,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+674523,no,no,none,"{
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+683252,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+726399,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+666461,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+683254,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+683250,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+683249,no,no,4,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+720686,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+683246,no,no,4,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+739432,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+745597,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+791097,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+788309,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+789522,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+778520,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+818316,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+810040,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+811397,yes,yes,3,"{
+  ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""3""
+}"
+827450,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+823900,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+824220,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+824894,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+824309,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+818696,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+820014,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+829626,yes,no,4,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+818899,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+830292,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+828780,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+823734,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+830405,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+826265,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+828523,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+827076,yes,no,2,"{
+   ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+827043,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+820067,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+817736,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+816586,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+818031,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+821628,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+856477,no,no,2,"{
+
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+881056,no,no,4,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+881055,no,no,4,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+883834,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+873066,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+895771,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+886675,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+892552,no,no,4,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+894411,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+887038,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+889030,yes,yes,3,"{
+   ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""3""
+}"
+875763,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+912749,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+928029,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+866668,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+866540,yes,yes,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""1""
+}"
+954814,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+954961,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+961421,no,no,none,"{
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+953091,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+953599,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+941491,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+941492,yes,yes,2,"{ ""injured"": ""yes"", ""killed"": ""yes"", ""rating"": ""2"" }"
+939285,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+951824,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+956909,no,no,none,"{
+
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+983293,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+989262,yes,no,4,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+989263,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+947893,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+959711,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+1013708,yes,no,4,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+1004035,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+1014168,no,yes,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""yes"",
+  ""rating"": ""2""
+}"
+1031937,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+1013705,no,no,4,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+1014291,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+1013685,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1013706,no,no,4,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+1022566,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1022969,no,no,3,"{
+ ""injured"": ""no"",
+ ""killed"": ""no"",
+ ""rating"": ""3""
+}"
+1021318,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1018626,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+1008077,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+1018627,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+1008114,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1009238,yes,no,4,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+1009340,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+1009635,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1009273,yes,no,2,"{
+   ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+1009234,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+1046699,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+1062581,no,no,4,"{
+
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""4"" }"
+1063274,yes,no,4,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+1063555,yes,yes,3,"{
+
+   ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""3"" }"
+1063564,no,no,3,"{
+
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""3"" }"
+1065986,no,no,2,"{
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+1065987,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+1065994,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1065999,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+1077169,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+1098431,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+1087762,yes,no,4,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+1087764,yes,no,none,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+1088057,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1087761,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1088066,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1084989,no,no,0,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""0""
+}"
+1087621,yes,yes,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""1""
+}"
+1097410,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+1097401,yes,no,1,"{
+   ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1101184,no,no,none,"{
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+1180959,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+1112492,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+1112298,no,no,3,"{
+   ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+1180126,no,no,2,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+1182292,yes,yes,3,"{
+ ""injured"": ""yes"",
+ ""killed"": ""yes"",
+ ""rating"": ""3""
+}"
+1181963,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1182246,yes,no,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1182303,no,yes,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""yes"",
+  ""rating"": ""1""
+}"
+1165426,yes,yes,1,"{
+  ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""1""
+}"
+1200427,yes,no,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""2""
+}"
+1187506,yes,no,4,"{
+   ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+1209224,no,no,none,"{ ""injured"": ""no"", ""killed"": ""no"", ""rating"": ""none"" }"
+1224046,yes,no,3,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+1224047,yes,yes,2,"{
+  ""injured"": ""yes"",
+  ""killed"": ""yes"",
+  ""rating"": ""2""
+}"
+1224049,yes,no,4,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+1224042,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1226825,yes,no,3,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+1166279,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+1196190,yes,no,3,"{
+  ""injured"": ""yes"",
+  ""killed"": ""no"",
+  ""rating"": ""3""
+}"
+1183030,no,no,none,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""none""
+}"
+1166019,no,no,4,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"
+1175335,no,no,1,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""1""
+}"
+1177790,no,no,4,"{
+  ""injured"": ""no"",
+  ""killed"": ""no"",
+  ""rating"": ""4""
+}"

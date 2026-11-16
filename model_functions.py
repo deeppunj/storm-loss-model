@@ -7,6 +7,26 @@ import config
 RETURN_PERIODS = [2, 5, 10, 20, 50, 100, 200]
 
 
+def damage_to_dollars(text):
+    # damage is text like 10.00K or 2.5M
+    text = str(text).strip().upper()
+    if text in ("", "NAN"):
+        return 0.0
+    factor = 1.0
+    if text[-1] == "K":
+        factor = 1_000.0
+    elif text[-1] == "M":
+        factor = 1_000_000.0
+    elif text[-1] == "B":
+        factor = 1_000_000_000.0
+    if text[-1] in "KMB":
+        text = text[:-1]
+    try:
+        return float(text) * factor
+    except ValueError:
+        return 0.0
+
+
 def load_storm_days():
     return pd.read_csv(config.CLEAN_FILE, parse_dates=["storm_date"])
 

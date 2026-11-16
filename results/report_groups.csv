@@ -1,0 +1,4 @@
+group,reports,top_words,median_damage_usd,total_damage_musd,with_injury_pct,mean_noaa_rating
+0,1427,"reported, open, country, brief, remained, storm, observed, tornado",0.0,203.52,0.28,0.06
+1,1695,"trees, homes, road, roof, county, damaged, home, snapped",30000.0,3524.83,10.91,0.83
+2,199,"touchdown, trees, landspout, waterspout, damage, lake, reported, brief",0.0,20.24,0.5,0.19

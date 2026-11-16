@@ -4,30 +4,10 @@ import sys
 import pandas as pd
 
 import config
+from model_functions import damage_to_dollars
 
 # columns I need (NOAA has them in capitals, I lower them after reading)
 WANTED = ["state", "year", "event_type", "begin_date_time", "damage_property"]
-
-
-def damage_to_dollars(text):
-    # damage is text like 10.00K or 2.5M
-    text = str(text).strip().upper()
-    if text in ("", "NAN"):
-        return 0.0
-    factor = 1.0
-    if text[-1] == "K":
-        factor = 1_000.0
-    elif text[-1] == "M":
-        factor = 1_000_000.0
-    elif text[-1] == "B":
-        factor = 1_000_000_000.0
-    if text[-1] in "KMB":
-        text = text[:-1]
-    try:
-        return float(text) * factor
-    except ValueError:
-        return 0.0
-
 
 parts = []
 files = sorted(config.RAW_DIR.glob("StormEvents_details*.csv.gz"))

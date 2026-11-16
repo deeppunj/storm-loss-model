@@ -1,0 +1,7 @@
+question,prompt,reports,agreement_pct,model_yes,both_yes,recall_pct,precision_pct
+injured,1,500,76.6,281,177,93.2,63.0
+injured,2,500,87.2,130,128,67.4,98.5
+killed,1,500,97.6,27,22,75.9,81.5
+killed,2,500,98.0,25,22,75.9,88.0
+rating (where both give one),1,213,91.5,,,,
+rating (where both give one),2,222,86.9,,,,
